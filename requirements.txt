@@ -8,4 +8,4 @@ plotly
 scipy
 statsmodels
 scikit-learn 
-from tkinter.tix import Tree
+tkinter.tix
