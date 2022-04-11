@@ -1,5 +1,4 @@
 #import libraries
-from tkinter.tix import Tree
 import streamlit as st
 import plotly.express as px
 import pandas as pd
